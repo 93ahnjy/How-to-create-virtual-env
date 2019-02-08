@@ -28,3 +28,9 @@ https://anaconda.org/anaconda/cudatoolkit
 <br>cuda9.0, cudnn7.3, numpy, tensorflow-gpu까지 싹다 깔린다.
 
 -----------------------------------------------------------------------------
+
+### 5. pytorch 설치
+https://anaconda.org/search?q=platform%3Alinux-64+pytorch
+<br> 여기서 원하는 버전으로 깔면 된다. cudatoolkit이랑 버전 안맞는 것은 자동으로 딴 놈으로 downgrade
+
+-----------------------------------------------------------------------------
