@@ -25,5 +25,6 @@ setting --> project interpreter --> 톱니 --> add local --> /home/사용자/ana
 
 ### 4. cudatoolkit 설치
 https://anaconda.org/anaconda/cudatoolkit
+<br>cuda9.0, cudnn7.3, numpy, tensorflow-gpu까지 싹다 깔린다.
 
 -----------------------------------------------------------------------------
