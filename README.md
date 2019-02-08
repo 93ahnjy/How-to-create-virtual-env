@@ -42,7 +42,7 @@ https://anaconda.org/search?q=platform%3Alinux-64+pytorch
 
 ### 6. torchvision 설치
 https://github.com/pytorch/vision
-<br> pycharmpip로 설치하니깐 된다. conda로는 안되었음.
+<br> pycharm기준 pip로 설치하니깐 된다. conda로는 안되었음.
 
 -----------------------------------------------------------------------------
 <br><br>
