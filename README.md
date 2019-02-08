@@ -1,4 +1,4 @@
-# ubuntu 16.04에서 가상환경 만들기
+# ubuntu 16.04에서 가상환경 만들고 pytorch 시작하기
 
 
 ### 1. Anaconda3 
