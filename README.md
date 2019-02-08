@@ -36,3 +36,13 @@ https://anaconda.org/search?q=platform%3Alinux-64+pytorch
 <br> 여기서 원하는 버전으로 깔면 된다. cudatoolkit이랑 버전 안맞는 것은 자동으로 딴 놈으로 downgrade
 
 -----------------------------------------------------------------------------
+<br><br>
+
+
+
+### 6. torchvision 설치
+https://github.com/pytorch/vision
+<br> pycharmpip로 설치하니깐 된다. conda로는 안되었음.
+
+-----------------------------------------------------------------------------
+<br><br>
