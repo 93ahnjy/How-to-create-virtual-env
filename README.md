@@ -14,5 +14,5 @@ https://niceman.tistory.com/85
 -----------------------------------------------------------------------------
 
 ### 3. 가상환경 pycharm에 옮기기
-setting --> project interpreter --> 톱니 --> add local --> /home/사용자/anaconda3/envs 에서 선택
+setting --> project interpreter --> 톱니 --> add local --> /home/사용자/anaconda3/envs 에서 맞는 python 선택
 
