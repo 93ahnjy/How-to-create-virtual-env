@@ -1,5 +1,5 @@
 # ubuntu 16.04에서 가상환경 만들고 pytorch 시작하기
-
+<br><br>
 
 ### 1. Anaconda3 
 http://sldofvge12.blogspot.com/2018/04/ubuntu-tensorflow-gpu-anaconda-pycharm.html
