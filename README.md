@@ -1,7 +1,8 @@
 # ubuntu 16.04에서 가상환경 만들기
 
 
-### 1. Anaconda3 : http://sldofvge12.blogspot.com/2018/04/ubuntu-tensorflow-gpu-anaconda-pycharm.html
+### 1. Anaconda3 
+http://sldofvge12.blogspot.com/2018/04/ubuntu-tensorflow-gpu-anaconda-pycharm.html
 추가로 source ~/.bashrc 하면 컴퓨터 reset 필요없이 바로 적용 가능
 
 ### 2. 가상환경 기본 사용법     : https://niceman.tistory.com/85
