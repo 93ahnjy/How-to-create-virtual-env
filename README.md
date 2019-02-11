@@ -77,6 +77,20 @@ https://anaconda.org/conda-forge/matplotlib
 
 
 
+### 8. opencv 설치
+https://anaconda.org/anaconda/libopencv
+<br> python버전만인지, c++에서도 되는 건지는 모르겠다. <br><br> 
+```conda install -c anaconda libopencv```
+```conda install -c anaconda py-opencv```
+<br> 
+<br> 
+
+-----------------------------------------------------------------------------
+<br><br>
+
+
+
+
 
 ### 주의점
 <br> 절대 다운로드 중에는 잘못 받는 중이라도 뭘 건드리지 마라 절대. 
