@@ -48,7 +48,7 @@ https://pytorch.org/get-started/previous-versions/
 
 ### 6. torchvision 설치
 https://github.com/pytorch/vision
-<br> pycharm기준 pip로 설치하니깐 된다. conda로는 안되었음.
+<br> pycharm기준 가상환경에서 pip로 설치하니깐 된다. conda로는 안되었음.
 
 -----------------------------------------------------------------------------
 <br><br>
