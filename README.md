@@ -11,7 +11,12 @@ http://sldofvge12.blogspot.com/2018/04/ubuntu-tensorflow-gpu-anaconda-pycharm.ht
 ### 2. 가상환경 기본 사용법
 
 https://niceman.tistory.com/85
-<br>참고로 블로그와는 조금 다른게 'source'를 붙여야 하는 경우도 있다.<br>
+<br>참고로 블로그와는 조금 다른게 'source'를 붙여야 하는 경우도 있다.<br><br>
+
+```
+conda create --name pytorch python=3.6
+source activate pytorch
+```
 
 -----------------------------------------------------------------------------
 <br><br>
