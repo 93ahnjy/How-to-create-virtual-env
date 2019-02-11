@@ -63,9 +63,19 @@ https://github.com/pytorch/vision
 
 ### 7. matplotlib 설치
 https://anaconda.org/conda-forge/matplotlib
-<br> 쓸데없는 짓이었다. 그냥 pip로 해야 됨. <br><br> 
+<br> conda로 하는 것은 쓸데없는 짓이었다. 그냥 pip로 해야 됨. <br><br> 
 ```pip install matplotlib```
 <br> 
+
+-----------------------------------------------------------------------------
+<br><br>
+
+
+
+
+### 주의점
+<br> 절대 다운로드 중에는 잘못 받는 중이라도 뭘 건드리지 마라 절대. 
+<br> pkg끼리 꼬이
 
 -----------------------------------------------------------------------------
 <br><br>
