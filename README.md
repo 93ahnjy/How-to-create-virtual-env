@@ -25,8 +25,8 @@ setting --> project interpreter --> 톱니 --> add local --> /home/사용자/ana
 
 ### 4. cudatoolkit 설치
 https://anaconda.org/anaconda/cudatoolkit
-<br>cuda9.0, cudnn7.3, numpy, tensorflow-gpu까지 싹다 깔린다.
-<br>```conda install -c anaconda cudatoolkit```
+<br>cuda9.0, cudnn7.3, numpy, tensorflow-gpu까지 싹다 깔린다.<br><br>
+```conda install -c anaconda cudatoolkit```
 <br> 
 
 -----------------------------------------------------------------------------
@@ -36,8 +36,8 @@ https://anaconda.org/anaconda/cudatoolkit
 ### 5. pytorch 설치
 https://anaconda.org/search?q=platform%3Alinux-64+pytorch
 <br> 여기서 원하는 버전으로 깔면 된다. cudatoolkit이랑 버전 안맞는 것은 자동으로 딴 놈으로 downgrade<br><br>
-<br>```conda install -c anaconda pytorch```
-<br> 
+<br>```conda install -c anaconda pytorch```<br><br>
+ 
 
 https://pytorch.org/get-started/previous-versions/
 <br> 이전 버전에서 conda 없이 깔려면 여기서 맞는 cuda 및 python버전의 whl 파일 설치.
