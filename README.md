@@ -63,8 +63,8 @@ https://github.com/pytorch/vision
 
 ### 7. matplotlib 설치
 https://anaconda.org/conda-forge/matplotlib
-<br> pycharm에서는 dependency때문에 conflict가 남. 이 방식으로 해야 함. <br><br> 
-```conda install -c conda-forge matplotlib```
+<br> 쓸데없는 짓이었다. 그냥 pip로 해야 됨. <br><br> 
+```pip install matplotlib```
 <br> 
 
 -----------------------------------------------------------------------------
