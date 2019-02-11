@@ -50,7 +50,7 @@ https://pytorch.org/get-started/previous-versions/
 
 
 
-### 7. torchvision 설치
+### 6. torchvision 설치
 https://github.com/pytorch/vision
 <br> pycharm기준 가상환경에서 pip로 설치하니깐 된다. conda로는 안되었음.<br><br>
 ```pip install torchvision```
@@ -61,9 +61,9 @@ https://github.com/pytorch/vision
 
 
 
-### 6. matplotlib 설치
+### 7. matplotlib 설치
 https://anaconda.org/conda-forge/matplotlib
-<br> pycharm에서는 dependency때문에 conflict가 남. 이 방식으로 해야 함.<br><br> 
+<br> pycharm에서는 dependency때문에 conflict가 남. 이 방식으로 해야 함. <br><br> 
 ```conda install -c conda-forge matplotlib```
 <br> 
 
