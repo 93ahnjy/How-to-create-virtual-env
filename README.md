@@ -47,8 +47,9 @@ https://anaconda.org/search?q=platform%3Alinux-64+pytorch
 https://pytorch.org/get-started/previous-versions/
 <br> 이전 버전에서 conda 없이 깔려면 여기서 맞는 cuda 및 python버전의 whl 파일 설치.
 <br> 그 담에는 pip3 install 'whl경로' 명령어를 쳐서 설치하면 된다. 
+<br>
 <br> 참고로 terminal 계정이 root냐 아니냐에 따라서 계정에 따른 실행 가능 상황이 달라질 수 있으니 조심.
-<br> pychram에 바로 갱신 되는 
+<br> pychram에 바로 갱신 되는 건 확인함.
 
 -----------------------------------------------------------------------------
 <br><br>
