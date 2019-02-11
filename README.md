@@ -26,7 +26,7 @@ setting --> project interpreter --> 톱니 --> add local --> /home/사용자/ana
 ### 4. cudatoolkit 설치
 https://anaconda.org/anaconda/cudatoolkit
 <br>cuda9.0, cudnn7.3, numpy, tensorflow-gpu까지 싹다 깔린다.
-```conda install -c anaconda cudatoolkit```
+<br>```conda install -c anaconda cudatoolkit```
 <br> 
 
 -----------------------------------------------------------------------------
@@ -36,7 +36,7 @@ https://anaconda.org/anaconda/cudatoolkit
 ### 5. pytorch 설치
 https://anaconda.org/search?q=platform%3Alinux-64+pytorch
 <br> 여기서 원하는 버전으로 깔면 된다. cudatoolkit이랑 버전 안맞는 것은 자동으로 딴 놈으로 downgrade
-```conda install -c anaconda pytorch```
+<br>```conda install -c anaconda pytorch```
 <br> 
 
 https://pytorch.org/get-started/previous-versions/
@@ -53,7 +53,7 @@ https://pytorch.org/get-started/previous-versions/
 ### 6. torchvision 설치
 https://github.com/pytorch/vision
 <br> pycharm기준 가상환경에서 pip로 설치하니깐 된다. conda로는 안되었음.
-```pip install torchvision```
+<br>```pip install torchvision```
 <br> 
 
 -----------------------------------------------------------------------------
@@ -63,8 +63,8 @@ https://github.com/pytorch/vision
 
 ### 6. matplotlib 설치
 https://anaconda.org/conda-forge/matplotlib
-<br> pycharm에서는 dependency때문에 conflict가 나
-```conda install -c conda-forge matplotlib```
+<br> pycharm에서는 dependency때문에 conflict가 남. 이 방식으로 해야 함. 
+<br>```conda install -c conda-forge matplotlib```
 <br> 
 
 -----------------------------------------------------------------------------
