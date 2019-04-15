@@ -63,7 +63,7 @@ https://github.com/pytorch/vision
 <br> 
 <br> update 19.4.15
 <br> 알고 보니 그냥 Conda install로 다 설치가 가능했음.
-```conda install torchvision```
+<br>```conda install torchvision```
 
 
 -----------------------------------------------------------------------------
@@ -77,7 +77,7 @@ https://anaconda.org/conda-forge/matplotlib
 ```pip install matplotlib```
 <br> 
 <br> 알고 보니 그냥 Conda install로 다 설치가 가능했음.
-```conda install matplotlib```
+<br>```conda install matplotlib```
 
 -----------------------------------------------------------------------------
 <br><br>
@@ -94,7 +94,7 @@ conda install -c anaconda py-opencv
 <br> 
 <br> 둘 다 설치한 상태인데 누구 덕에 되는 지는 잘 모르겠다. 
 <br> 알고 보니 그냥 Conda install로 다 설치가 가능했음.
-```conda install opencv```
+<br>```conda install opencv```
 
 -----------------------------------------------------------------------------
 <br><br>
@@ -105,7 +105,7 @@ conda install -c anaconda py-opencv
 
 ### 주의점
 <br> 절대 다운로드 중에는 잘못 받는 중이라도 뭘 건드리지 마라 절대. 
-<br> pkg끼리 꼬이면 답도 없으며, python경우, link가 아예 broken까지 뜨더
+<br> pkg끼리 꼬이면 답도 없으며, python경우, link가 아예 broken까지 뜸
 
 -----------------------------------------------------------------------------
 <br><br>
