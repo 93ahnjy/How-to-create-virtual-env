@@ -61,6 +61,10 @@ https://github.com/pytorch/vision
 <br> pycharm기준 가상환경에서 pip로 설치하니깐 된다. conda로는 안되었음.<br><br>
 ```pip install torchvision```
 <br> 
+<br> update 19.4.15
+<br> 알고 보니 그냥 Conda install로 다 설치가 가능했음.
+```conda install torchvision```
+
 
 -----------------------------------------------------------------------------
 <br><br>
@@ -72,6 +76,8 @@ https://anaconda.org/conda-forge/matplotlib
 <br> conda로 하는 것은 쓸데없는 짓이었다. 그냥 pip로 해야 됨. <br><br> 
 ```pip install matplotlib```
 <br> 
+<br> 알고 보니 그냥 Conda install로 다 설치가 가능했음.
+```conda install matplotlib```
 
 -----------------------------------------------------------------------------
 <br><br>
@@ -87,6 +93,8 @@ conda install -c anaconda py-opencv
 ```
 <br> 
 <br> 둘 다 설치한 상태인데 누구 덕에 되는 지는 잘 모르겠다. 
+<br> 알고 보니 그냥 Conda install로 다 설치가 가능했음.
+```conda install opencv```
 
 -----------------------------------------------------------------------------
 <br><br>
