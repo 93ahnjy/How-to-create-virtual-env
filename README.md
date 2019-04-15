@@ -96,6 +96,7 @@ conda install -c anaconda py-opencv
 <br><br> 알고 보니 그냥 Conda install로 다 설치가 가능했음.<br><br>
 ```conda install opencv```
 
+
 -----------------------------------------------------------------------------
 <br><br>
 
