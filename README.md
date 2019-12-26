@@ -18,6 +18,17 @@ conda create --name pytorch python=3.6
 source activate pytorch
 ```
 
+
+In most cases what you want to do when you say that you want to update Anaconda is to execute the command:
+```
+conda update --all
+```
+(But this should be preceeded by 
+```
+conda update -n root conda
+```
+so you have the latest conda version installed)
+
 -----------------------------------------------------------------------------
 <br><br>
 
