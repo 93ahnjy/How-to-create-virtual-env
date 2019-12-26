@@ -28,7 +28,7 @@ conda update --all
 conda update -n root conda
 ```
 so you have the latest conda version installed)
-
+https://stackoverflow.com/questions/45197777/how-do-i-update-anaconda
 -----------------------------------------------------------------------------
 <br><br>
 
