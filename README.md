@@ -5,12 +5,17 @@
 http://sldofvge12.blogspot.com/2018/04/ubuntu-tensorflow-gpu-anaconda-pycharm.html
 <br>추가로 source ~/.bashrc 하면 컴퓨터 reset 필요없이 바로 적용 가능<br>
 
-뭔가 다운이 잘 안되면 다음을 통해 anaconda update 진쟁
+뭔가 다운이 잘 안되면 다음을 통해 anaconda update 진행
 
 ```
 conda update -n root conda
 ```
 
+또는 cache 삭제
+
+```
+conda clean --all
+```
 ------------------------------------------------------------------------------------
 <br><br>
 
