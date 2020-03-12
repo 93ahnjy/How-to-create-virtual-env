@@ -5,6 +5,12 @@
 http://sldofvge12.blogspot.com/2018/04/ubuntu-tensorflow-gpu-anaconda-pycharm.html
 <br>추가로 source ~/.bashrc 하면 컴퓨터 reset 필요없이 바로 적용 가능<br>
 
+뭔가 다운이 잘 안되면 다음을 통해 anaconda update 진쟁
+
+```
+conda update -n root conda
+```
+
 ------------------------------------------------------------------------------------
 <br><br>
 
@@ -23,11 +29,7 @@ In most cases what you want to do when you say that you want to update Anaconda 
 ```
 conda update --all
 ```
-(But this should be preceeded by 
-```
-conda update -n root conda
-```
-so you have the latest conda version installed)
+
 
 
 https://stackoverflow.com/questions/45197777/how-do-i-update-anaconda
