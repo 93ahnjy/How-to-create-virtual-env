@@ -16,6 +16,16 @@ conda update -n root conda
 ```
 conda clean --all
 ```
+
+만일 gcc 건드려서 문제 생기면? (libstdc++.so.6: version `CXXABI_1.3.11' not found)
+
+
+```
+conda update -f libstdcxx-ng
+```
+
+
+
 ------------------------------------------------------------------------------------
 <br><br>
 
